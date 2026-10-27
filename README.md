@@ -1,4 +1,4 @@
-# MERN Chatbot
+# AI Chatbot
 
 A full‑stack, production‑minded chatbot built with **MongoDB, Express, React (Vite), Node.js**, JWT authentication and the OpenAI API — with **real‑time SSE streaming**, markdown + code highlighting, dark mode, and a hardened backend.
 
